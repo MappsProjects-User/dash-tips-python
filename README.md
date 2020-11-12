@@ -39,8 +39,9 @@ conda activate dash
 
 ファイルをダウンロードまたはcloneします
 
-ダウンロードの方法
-https://github.com/MappsProjects-User/dash-tips-python　に移動
+ダウンロードの方法<br>
+下記のURLに移動する<br>
+https://github.com/MappsProjects-User/dash-tips-python
 ```bash
 「Code」をクリック
 「Download ZIP」をクリック、ダウンロードして解凍
@@ -74,7 +75,9 @@ Dash is running on http://127.0.0.1:8050/
    Use a production WSGI server instead.
  * Debug mode: on
 ```
-「http://127.0.0.1:8050/」　をブラウザのURL入力欄にコピペする
+下記をブラウザのURL入力欄にコピペする<br>
+「http://127.0.0.1:8050/」
+
 
 # Link
 
