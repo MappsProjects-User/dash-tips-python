@@ -3,7 +3,7 @@
 
 dash-tips-python
 
-# DEMO
+# Demo
 
 ![](https://github.com/MappsProjects-User/materials/blob/main/dash_tips_python_movie.gif)
 
@@ -31,7 +31,7 @@ dash-tips-python
 # Getting Started
 
 anacondaを利用しての方法です<br>
-仮想環境を構築して、起動します（ここでは、仮想環境dash構築済で、dashを起動）
+仮想環境を構築して起動します（ここでは、仮想環境dash構築済で、dashを起動）
 
 ```bash
 conda activate dash
@@ -40,9 +40,13 @@ conda activate dash
 ファイルをダウンロードまたはcloneします
 
 ダウンロードの方法
+https://github.com/MappsProjects-User/dash-tips-python<br>
+に移動
 ```bash
 「Code」をクリック
 「Download ZIP」をクリック、ダウンロードして解凍
+解凍すると「dash-tips-python-main」というフォルダができている
+このフォルダを実行する場所に移動させる（例：デスクトップなど）
 ```
 
 cloneの方法
@@ -50,15 +54,28 @@ cloneの方法
 git clone https://github.com/MappsProjects-User/dash-tips-python.git
 ```
 
-ファイルを置いた場所に移動（下記はデスクトップに置いた場合）
+ターミナル（コマンドプロンプト）でフォルダを置いた場所に移動（下記はデスクトップに置いた場合）
 ```bash
 cd desktop/dash-tips-python
 ```
 
 アプリの起動
+「python app.py」とコマンドを入力する
 ```bash
 python app.py
 ```
+
+ローカルサーバーが起動する
+```bash
+Dash is running on http://127.0.0.1:8050/
+
+ * Serving Flask app "app" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+```
+「http://127.0.0.1:8050/」　をブラウザのURL入力欄にコピペする
 
 # Link
 
@@ -74,6 +91,6 @@ python app.py
 YouTube：https://www.youtube.com/channel/UCyVRJKZr3uep-eQCIwY7KCg<br>
 Teitter：https://twitter.com/MApps_ch
 
-# LICENSE
+# License
 
 MITライセンスに従います
