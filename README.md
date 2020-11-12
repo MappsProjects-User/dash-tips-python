@@ -30,7 +30,7 @@ dash-tips-python
 
 # Getting Started
 
-anacondaを利用しての方法です<br>
+anacondaを利用した方法です<br>
 仮想環境を構築して起動します（ここでは、仮想環境dash構築済で、dashを起動）
 
 ```bash
@@ -40,8 +40,7 @@ conda activate dash
 ファイルをダウンロードまたはcloneします
 
 ダウンロードの方法
-https://github.com/MappsProjects-User/dash-tips-python<br>
-に移動
+https://github.com/MappsProjects-User/dash-tips-python　に移動
 ```bash
 「Code」をクリック
 「Download ZIP」をクリック、ダウンロードして解凍
@@ -89,7 +88,7 @@ Dash is running on http://127.0.0.1:8050/
 [英名：Marketing Applications, Inc.]
 
 YouTube：https://www.youtube.com/channel/UCyVRJKZr3uep-eQCIwY7KCg<br>
-Teitter：https://twitter.com/MApps_ch
+Twitter：https://twitter.com/MApps_ch
 
 # License
 
