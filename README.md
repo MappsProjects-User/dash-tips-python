@@ -76,7 +76,7 @@ Dash is running on http://127.0.0.1:8050/
  * Debug mode: on
 ```
 下記をブラウザのURL入力欄にコピペする<br>
-「http://127.0.0.1:8050/」
+http://127.0.0.1:8050/
 
 
 # Link
